@@ -10,7 +10,6 @@ theme: minima
 # minima에서 상단 메뉴로 노출할 페이지
 header_pages:
   - index.markdown
-  - about.markdown
 
 # 소셜 링크(원하는 것만 남겨)
 minima:
