@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+permalink: /
 ---
 
 <div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap; margin-top:16px;">
