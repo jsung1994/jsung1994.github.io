@@ -7,7 +7,7 @@ permalink: /
 <div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap; margin-top:16px;">
 
   <div style="flex:0 0 180px;">
-    <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/profile.jpeg' | relative_url }}"
          alt="Profile photo"
          style="width:180px; height:180px; object-fit:cover; border-radius:16px; border:1px solid #ddd;" />
   </div>
